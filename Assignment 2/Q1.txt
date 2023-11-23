@@ -1,0 +1,2 @@
+Q -> Find the output for code (Input -> 2 , 3 , 6)
+Ans -> output : 0

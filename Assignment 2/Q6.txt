@@ -1,0 +1,2 @@
+Q-> Find the output of below code .
+Ans -> 49.
